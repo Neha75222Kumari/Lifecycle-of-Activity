@@ -1,5 +1,6 @@
 package example.javatpoint.com.activitylifecycle;  
   
+
 import android.app.Activity;  
 import android.os.Bundle;  
 import android.util.Log;  
